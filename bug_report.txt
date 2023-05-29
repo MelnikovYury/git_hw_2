@@ -1,10 +1,10 @@
 "ID"
-"Title(краткое описание)"    основной
+"Title(краткое описание)"    
 "Description(Подробное описание)"
 "Req id(id требованияя)"
-"Steps To Rreproduce(шаги)"      основной
-"Actual Results(фактический результат)"    основной
-"Expected Results(ожидаемый результат)"    основной
+"Steps To Rreproduce(шаги)"      
+"Actual Results(фактический результат)"    
+"Expected Results(ожидаемый результат)"    
 "Severity(важность)"
 "Priority(срочность)"
 "Attachments(приложение,скриншот,видео,лог)"
